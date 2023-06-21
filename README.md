@@ -3,8 +3,10 @@ Adobe Experience Manager (AEM) - Coral 3 – Granite UI components
 
 Dialog Fields Samples Index
 ---------
+* [Initial Structure of a Dialog Simple](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-build-of-structure-of-a-dialog-xml)
 
-* [Initial Structure of a Dialog](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-build-of-structure-of-a-dialog-with-tab-and-field-of-text-xml)
+
+* [Initial Structure of a Dialog with field of Text](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-build-of-structure-of-a-dialog-with-tab-and-field-of-text-xml)
 
   
 ![example1](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/780e2cd3-96b9-4394-a623-b8491f8ae92c)
@@ -116,6 +118,12 @@ Dialog Fields Samples Index
 
 
 
+* [Buttongroup](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-button-group-xml)
+
+  
+* [Colorfield](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-colorfield-xml)
+
+  
 ---
 #### References:
 
