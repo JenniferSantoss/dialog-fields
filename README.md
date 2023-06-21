@@ -123,7 +123,8 @@ Dialog Fields Samples Index
   
 * [Colorfield](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-colorfield-xml)
 
-  
+
+* [Alertfield](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-alert-coral-xml)
 ---
 #### References:
 
