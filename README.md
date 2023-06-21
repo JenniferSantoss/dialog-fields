@@ -9,16 +9,29 @@ Dialog Fields Samples Index
   
 ![example1](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/780e2cd3-96b9-4394-a623-b8491f8ae92c)
 
+
+
+* [Accordian](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-accordian-coral-xml)
+
+![Accordian](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/8e3814b1-b172-4455-9b03-6098dd172f4e)
+
+
+
   
 * [Checkbox](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-checkbox-coral-xml)
 
 
 ![Checkbox](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/3868ec2b-79d8-4207-a004-efb43057852f)
 
+
+
   
 * [Datepicker](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-datepicker-coral-xml)
 
 ![Datepicker](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/3ef87d71-ca0b-4168-9dd8-932a9ce02f21)
+
+
+
 
   
 * [Fileupload](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-fileupload-coral-xml)
@@ -26,9 +39,15 @@ Dialog Fields Samples Index
 ![Fileupload](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/341453b7-1f89-45c0-8201-74f62f1af478)
 
 
+
+
+
 * [Multifield](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-multifield-coral-xml)
 
 ![Multifield](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/d6daf940-48c2-45fc-a214-dbb66d71faf9)
+
+
+
 
 
   
@@ -37,10 +56,16 @@ Dialog Fields Samples Index
 ![Numberfield](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/a8dd6d8c-7b74-40fb-b690-9bc3685af3f9)
 
 
+
+
+
   
 * [Pathbrowser](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-pathbrowser-coral-xml)
 
 ![Pathbrowser](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/8aaa0229-c43c-40e3-aace-71ccee918553)
+
+
+
 
 
   
@@ -50,9 +75,13 @@ Dialog Fields Samples Index
 
 
 
+
+
 * [Radiogroup](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-radiogroup-coral-xml)
 
 ![Radiogroup](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/885a01ca-29f4-4228-92de-27542964dfe2)
+
+
 
 
   
@@ -62,9 +91,13 @@ Dialog Fields Samples Index
 
 
 
+
+
 * [Select](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-select-coral-xml)
 
 ![Select](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/c95b4e94-078a-4d1b-8278-59533b7cd2bf)
+
+
 
 
 
@@ -74,9 +107,13 @@ Dialog Fields Samples Index
 
 
 
+
+
 * [Textfield](https://gist.github.com/JenniferSantoss/739ca11daecff936a2da164802c53d84#file-textfield-coral-xml)
 
 ![Textfield](https://github.com/JenniferSantoss/dialog-fields-aem/assets/123119520/ea41ac2c-7903-4ac0-8651-a08cdf7355f5)
+
+
 
 
 ---
